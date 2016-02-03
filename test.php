@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect("127.0.0.1", "rait", "qwerty", "test");
+$con = mysqli_connect("localhost","rait","qwerty","test");
 $name = $_POST['name'];
 $email = $_POST['email'];
 $pass = $_POST['pass'];
