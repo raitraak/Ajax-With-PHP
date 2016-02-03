@@ -1,4 +1,4 @@
 Lecture Description
-In this first lecture of AJAX course, we'll take an overview of AJAX with detailed introduction that how can we use AJAX in web development.
+In this lecture, we'll learn about creating environment for AJAX web development with PHP using jQuery.
 
 There are no available downloads for this lecture.
