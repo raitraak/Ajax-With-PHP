@@ -1,11 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: raitraak
- * Date: 03/02/16
- * Time: 12:08
- */
-$con =  mysqli_connect("localhost","root","","test");
+$con = mysqli_connect("127.0.0.1", "rait", "qwerty", "test");
 $name = $_POST['name'];
 $email = $_POST['email'];
 $pass = $_POST['pass'];
@@ -23,5 +17,4 @@ else {
         echo "<h2>Registration Successful, Thanks!</h2>";
     }
 }
-
 ?>
